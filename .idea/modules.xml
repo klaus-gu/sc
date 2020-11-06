@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bus-sample/bus-sample.iml" filepath="$PROJECT_DIR$/bus-sample/bus-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc.iml" filepath="$PROJECT_DIR$/sc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-starter-bus-rocketmq/sc-starter-bus-rocketmq.iml" filepath="$PROJECT_DIR$/sc-starter-bus-rocketmq/sc-starter-bus-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-starter-stream-rocketmq/sc-starter-stream-rocketmq.iml" filepath="$PROJECT_DIR$/sc-starter-stream-rocketmq/sc-starter-stream-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-sample/stream-sample.iml" filepath="$PROJECT_DIR$/stream-sample/stream-sample.iml" />
+    </modules>
+  </component>
+</project>
