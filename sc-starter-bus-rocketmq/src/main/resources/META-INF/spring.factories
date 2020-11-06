@@ -1,0 +1,3 @@
+# EnvironmentPostProcessor
+org.springframework.boot.env.EnvironmentPostProcessor=\
+xyz.turboklaus.sc.bus.rocketmq.env.RocketMQBusEnvironmentPostProcessor
