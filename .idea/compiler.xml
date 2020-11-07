@@ -6,19 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="binder-rocketmq-sample" />
         <module name="bus-sample" />
-        <module name="sc" />
-        <module name="sc-starter-bus-rocketmq" />
-        <module name="sc-starter-stream-rocketmq" />
-        <module name="stream-sample" />
+        <module name="stream-filter-sample" />
+        <module name="stream-normal-sample" />
+        <module name="stream-sendto-sample" />
+        <module name="stream-splitter-sample" />
+        <module name="stream-tags-sample" />
+        <module name="stream-transform-sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="binder-rocketmq-sample" target="1.8" />
       <module name="bus-sample" target="1.8" />
+      <module name="demo" target="1.8" />
       <module name="rocketmq-spring-boot" target="1.8" />
       <module name="rocketmq-spring-boot-parent" target="1.8" />
       <module name="rocketmq-spring-boot-starter" target="1.8" />
-      <module name="sc" target="1.8" />
       <module name="sc-starter-bus-rocketmq" target="1.8" />
       <module name="sc-starter-stream-rocketmq" target="1.8" />
       <module name="spring-cloud-bus-rocketmq" target="1.8" />
@@ -27,7 +31,16 @@
       <module name="spring-cloud-stream-binder-rocketmq-core" target="1.8" />
       <module name="spring-cloud-stream-rocketmq" target="1.8" />
       <module name="spring-platform-starter-rocketmq" target="1.8" />
+      <module name="stream-aggregator-sample" target="1.8" />
+      <module name="stream-filter-sample" target="1.8" />
+      <module name="stream-normal-sample" target="1.8" />
+      <module name="stream-orderly-sample" target="1.8" />
       <module name="stream-sample" target="1.8" />
+      <module name="stream-send-receive-sample" target="1.8" />
+      <module name="stream-sendto-sample" target="1.8" />
+      <module name="stream-splitter-sample" target="1.8" />
+      <module name="stream-tags-sample" target="1.8" />
+      <module name="stream-transform-sample" target="1.8" />
       <module name="turboklaus_rocketmq_bus" target="1.8" />
       <module name="turboklaus_rocketmq_stream" target="1.8" />
       <module name="turboklaus_starter_stream_rocketmq" target="1.8" />
@@ -37,8 +50,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="binder-rocketmq-sample" options="-parameters" />
       <module name="bus-sample" options="-parameters" />
-      <module name="sc" options="-parameters" />
+      <module name="demo" options="-parameters" />
       <module name="sc-starter-bus-rocketmq" options="-parameters" />
       <module name="sc-starter-stream-rocketmq" options="-parameters" />
       <module name="spring-cloud-bus-rocketmq" options="-parameters" />
@@ -46,7 +60,16 @@
       <module name="spring-cloud-stream-binder-rocketmq-core" options="-parameters" />
       <module name="spring-cloud-stream-rocketmq" options="-parameters" />
       <module name="spring-platform-starter-rocketmq" options="-parameters" />
+      <module name="stream-aggregator-sample" options="-parameters" />
+      <module name="stream-filter-sample" options="-parameters" />
+      <module name="stream-normal-sample" options="-parameters" />
+      <module name="stream-orderly-sample" options="-parameters" />
       <module name="stream-sample" options="-parameters" />
+      <module name="stream-send-receive-sample" options="-parameters" />
+      <module name="stream-sendto-sample" options="-parameters" />
+      <module name="stream-splitter-sample" options="-parameters" />
+      <module name="stream-tags-sample" options="-parameters" />
+      <module name="stream-transform-sample" options="-parameters" />
       <module name="turboklaus_rocketmq_bus" options="-parameters" />
       <module name="turboklaus_rocketmq_stream" options="-parameters" />
       <module name="turboklaus_starter_stream_rocketmq" options="-parameters" />

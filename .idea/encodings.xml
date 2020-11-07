@@ -3,9 +3,18 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bus-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-starter-bus-rocketmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-starter-stream-rocketmq" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/stream-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-aggregator-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-filter-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-normal-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-orderly-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-send-reveive-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-sendto-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-splitter-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-tags-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-transform-sample" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/turboklaus_rocketmq_bus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/turboklaus_rocketmq_stream" charset="UTF-8" />
   </component>

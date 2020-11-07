@@ -31,4 +31,14 @@ public class PublishEvent {
                 new UserRemoteApplicationEvent(this, user, originService, "bus_rocketmq"));
         return true;
     }
+
+    @GetMapping("/publish/1")
+    public boolean publish1() {
+        User user = new User();
+        user.setId(System.currentTimeMillis());
+        user.setName("lisi");
+        publisher.publishEvent(
+                new UserRemoteApplicationEvent(this, user, originService, "bus_rocketmq_topic"));
+        return true;
+    }
 }

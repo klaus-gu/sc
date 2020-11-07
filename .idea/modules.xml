@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/binder-rocketmq-sample.iml" filepath="$PROJECT_DIR$/binder-rocketmq-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/bus-sample/bus-sample.iml" filepath="$PROJECT_DIR$/bus-sample/bus-sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sc.iml" filepath="$PROJECT_DIR$/sc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sc-starter-bus-rocketmq/sc-starter-bus-rocketmq.iml" filepath="$PROJECT_DIR$/sc-starter-bus-rocketmq/sc-starter-bus-rocketmq.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sc-starter-stream-rocketmq/sc-starter-stream-rocketmq.iml" filepath="$PROJECT_DIR$/sc-starter-stream-rocketmq/sc-starter-stream-rocketmq.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stream-sample/stream-sample.iml" filepath="$PROJECT_DIR$/stream-sample/stream-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-filter-sample/stream-filter-sample.iml" filepath="$PROJECT_DIR$/stream-filter-sample/stream-filter-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-normal-sample/stream-normal-sample.iml" filepath="$PROJECT_DIR$/stream-normal-sample/stream-normal-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-sendto-sample/stream-sendto-sample.iml" filepath="$PROJECT_DIR$/stream-sendto-sample/stream-sendto-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-splitter-sample/stream-splitter-sample.iml" filepath="$PROJECT_DIR$/stream-splitter-sample/stream-splitter-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-tags-sample/stream-tags-sample.iml" filepath="$PROJECT_DIR$/stream-tags-sample/stream-tags-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-transform-sample/stream-transform-sample.iml" filepath="$PROJECT_DIR$/stream-transform-sample/stream-transform-sample.iml" />
     </modules>
   </component>
 </project>

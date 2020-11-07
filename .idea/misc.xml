@@ -14,14 +14,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/sc-starter-bus-rocketmq/pom.xml" />
-        <option value="$PROJECT_DIR$/sc-starter-stream-rocketmq/pom.xml" />
         <option value="$PROJECT_DIR$/stream-sample/pom.xml" />
         <option value="$PROJECT_DIR$/bus-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-tags-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-splitter-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-sendto-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-normal-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-filter-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-transform-sample/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-spring-boot-parent/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-spring-boot-starter/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-spring-boot/pom.xml" />
@@ -29,6 +34,8 @@
         <option value="$PROJECT_DIR$/spring-cloud-starter-stream-rocketmq/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-stream-binder-rocketmq-core/pom.xml" />
         <option value="$PROJECT_DIR$/spring-platform-starter-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-orderly-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-send-reveive-sample/pom.xml" />
         <option value="$PROJECT_DIR$/turboklaus_stream_binder_rocketmq_core/pom.xml" />
       </set>
     </option>
