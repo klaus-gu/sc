@@ -10,6 +10,7 @@
         <module name="bus-sample" />
         <module name="stream-filter-sample" />
         <module name="stream-normal-sample" />
+        <module name="stream-saocaozuo-sample" />
         <module name="stream-sendto-sample" />
         <module name="stream-splitter-sample" />
         <module name="stream-tags-sample" />
@@ -36,6 +37,7 @@
       <module name="stream-normal-sample" target="1.8" />
       <module name="stream-orderly-sample" target="1.8" />
       <module name="stream-sample" target="1.8" />
+      <module name="stream-saocaozuo-sample" target="1.8" />
       <module name="stream-send-receive-sample" target="1.8" />
       <module name="stream-sendto-sample" target="1.8" />
       <module name="stream-splitter-sample" target="1.8" />
@@ -65,6 +67,7 @@
       <module name="stream-normal-sample" options="-parameters" />
       <module name="stream-orderly-sample" options="-parameters" />
       <module name="stream-sample" options="-parameters" />
+      <module name="stream-saocaozuo-sample" options="-parameters" />
       <module name="stream-send-receive-sample" options="-parameters" />
       <module name="stream-sendto-sample" options="-parameters" />
       <module name="stream-splitter-sample" options="-parameters" />

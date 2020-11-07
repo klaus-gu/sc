@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
  * @author Turbo Klaus
  * @author <a href="mailto:guyue375@outlook.com">klaus</a>
  * @program sc
+ * 消息转换后发送实现
  **/
 @Component
 public class TransformService {

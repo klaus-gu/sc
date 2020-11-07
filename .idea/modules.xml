@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/bus-sample/bus-sample.iml" filepath="$PROJECT_DIR$/bus-sample/bus-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream-filter-sample/stream-filter-sample.iml" filepath="$PROJECT_DIR$/stream-filter-sample/stream-filter-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream-normal-sample/stream-normal-sample.iml" filepath="$PROJECT_DIR$/stream-normal-sample/stream-normal-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-saocaozuo-sample/stream-saocaozuo-sample.iml" filepath="$PROJECT_DIR$/stream-saocaozuo-sample/stream-saocaozuo-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream-sendto-sample/stream-sendto-sample.iml" filepath="$PROJECT_DIR$/stream-sendto-sample/stream-sendto-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream-splitter-sample/stream-splitter-sample.iml" filepath="$PROJECT_DIR$/stream-splitter-sample/stream-splitter-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/stream-tags-sample/stream-tags-sample.iml" filepath="$PROJECT_DIR$/stream-tags-sample/stream-tags-sample.iml" />

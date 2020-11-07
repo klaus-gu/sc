@@ -17,6 +17,7 @@ import org.springframework.util.MimeTypeUtils;
  * @author Turbo Klaus
  * @author <a href="mailto:guyue375@outlook.com">klaus</a>
  * @program sc
+ * 普通用法
  **/
 @SpringBootApplication
 @EnableBinding({Source.class, Sink.class})

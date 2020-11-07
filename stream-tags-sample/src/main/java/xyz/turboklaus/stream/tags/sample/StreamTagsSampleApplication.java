@@ -15,6 +15,7 @@ import xyz.turboklaus.stream.tags.sample.sink.CustomeSink;
  * @author Turbo Klaus
  * @author <a href="mailto:guyue375@outlook.com">klaus</a>
  * @program sc
+ * 消息根据标签消费
  **/
 @SpringBootApplication
 @EnableBinding({ Source.class, CustomeSink.class })

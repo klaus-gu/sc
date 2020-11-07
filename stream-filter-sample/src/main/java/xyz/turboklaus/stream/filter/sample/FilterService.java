@@ -3,7 +3,6 @@ package xyz.turboklaus.stream.filter.sample;
 import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.cloud.stream.messaging.Sink;
 import org.springframework.integration.annotation.Filter;
-import org.springframework.integration.annotation.ServiceActivator;
 import org.springframework.stereotype.Component;
 
 /**

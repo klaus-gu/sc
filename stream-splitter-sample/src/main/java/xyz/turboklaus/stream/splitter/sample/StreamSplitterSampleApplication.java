@@ -12,6 +12,12 @@ import org.springframework.integration.channel.DirectChannel;
 import org.springframework.integration.support.MessageBuilder;
 import org.springframework.messaging.MessageChannel;
 
+/**
+ * @author Turbo Klaus
+ * @author <a href="mailto:guyue375@outlook.com">klaus</a>
+ * @program sc
+ * 消息分割
+ **/
 @SpringBootApplication
 @EnableBinding({ Source.class, Sink.class })
 public class StreamSplitterSampleApplication {

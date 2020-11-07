@@ -16,6 +16,7 @@ import org.springframework.messaging.MessageChannel;
  * @author Turbo Klaus
  * @author <a href="mailto:guyue375@outlook.com">klaus</a>
  * @program sc
+ * 消息回执/转发等
  **/
 @SpringBootApplication
 @EnableBinding({Source.class, Sink.class})

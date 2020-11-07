@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/stream-normal-sample/pom.xml" />
         <option value="$PROJECT_DIR$/stream-filter-sample/pom.xml" />
         <option value="$PROJECT_DIR$/stream-transform-sample/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-saocaozuo-sample/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
